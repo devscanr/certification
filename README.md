@@ -1,11 +1,21 @@
 # DevScanr certification platform
 
-This project aims to help developers to present their open source contributions (projects, experiments, stars – all public activity in general)
-in a way that is readable and clear to tech recruiters. Namely, all work is aggregated and presented as a certificate.
+This project helps developers to present their open source work and achievements in a form 
+that is readable to tech recruiters. Namely, in the form of a certificate.
 
 https://devscanr.com/certificates
 
----
+## Motivation
+
+Our data on LinkedIn or in a personal resume is not fully reliable. Many job seekers falsify
+their experiences and titles to apply for better positions. Recruiters are aware of the problem
+and, every year, they pay more attention to the evidentiary part of the resume.
+Which includes: skill upvotes from your friends (to a minimal extent), testimonials, certificates.
+
+Certificate is the strongest evidence of a qualification since it is issued by a neutral party.
+Developers invest time and money in getting them, knowing that it will help
+them to find a higher paying job and/or find it faster. DevScanr certificates are free, but can
+be obtained only by developers who cared to sustain and evolve their public profiles over the years.
 
 ## About DevScanr Certificate
 
@@ -23,13 +33,10 @@ This document establishes a strong foundation of trust to engineers’ skills fo
 - It relies on unbiased fourth party confirmations (earned stars, followers, etc.).
 - DevScanr adds an ad-hoc layer of data checks to reduce the chances of fabrication to almost zero.
 
-For a resume with no certificate we have to solely rely on the objectivity and credibility of its creator.
-A testimonial from a former colleague can increase our trust to a certain extent.
-But only a document issued by a neutral third party can be fully trustworthy.
-DevScanr certificates go beyond that, being based on a career-agnostic information and unforgeable
-community signals. We can’t guarantee that a certificate holder is a “good person” though.
-
 ### Certificate Structure
+
+Each document is individual and contains insights about a unique experience and
+competences, history of tech applications, interests, etc. 
 
 - Typical fields such as title, personal details, certificate ID, issue date
 - Verified competences
