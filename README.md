@@ -12,8 +12,8 @@ https://devscanr.com/certificates
 **A certificate from DevScanr confirms the authenticity of a specialization and seniority** of its respective holder. 
 It acknowledges that these key statements, declared in a resume or on a GitHub profile page are correct.
 
-The validation process involves a deep analysis of a GitHub profile: repositories, contributions,
-activities, social metrics, ratings, etc. using by dedicated machine learning algorithms.
+The validation process involves an automatic analysis of a GitHub profile: repositories, contributions,
+activities, social metrics, ratings, etc. by dedicated ML algorithms.
 Additionally, each certificate is manually approved by a subject matter expert from our team.
 
 This document establishes a strong foundation of trust to engineers’ skills for the following reasons:
