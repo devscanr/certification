@@ -5,7 +5,7 @@ that is readable to tech recruiters. Namely, in the form of a certificate.
 
 https://devscanr.com/certificates
 
-## Motivation
+### Motivation
 
 Our data on LinkedIn or in a personal resume is not fully reliable. Many job seekers falsify
 their experiences and titles to apply for better positions. Recruiters are aware of the problem
